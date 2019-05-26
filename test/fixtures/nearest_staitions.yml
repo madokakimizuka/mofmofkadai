@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  route_name: MyText
+  name: MyText
+  walking_minutes: 1
+
+two:
+  route_name: MyText
+  name: MyText
+  walking_minutes: 1
