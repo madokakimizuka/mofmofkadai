@@ -1,2 +1,0 @@
-class NearestStaition < ApplicationRecord
-end
